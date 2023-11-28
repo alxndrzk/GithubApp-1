@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GithubApp</string>
+
+    <string name="searchbar_hint">Search Username</string>
+    <string name="tab_follower">Follower</string>
+    <string name="tab_following">Following</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="tablayout">Tablayout</string>
+
+
+</resources>
